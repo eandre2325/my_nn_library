@@ -26,4 +26,4 @@ This project is a work in progress and is primarily intended as a learning tool.
 Since this library is for educational purposes, it’s not optimized for performance and may lack some of the features found in production-ready ML frameworks. Feel free to clone the repository and experiment with the code.
 
 ```bash
-git clone https://github.com/yourusername/my_nn_library.git
+git clone https://github.com/eandre2325/my_nn_library.git
