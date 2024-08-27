@@ -9,6 +9,10 @@ This is a personal project where I'm building a neural network library from scra
 - Mean Squared Error (MSE) loss
 - Cross Entropy loss
 
+##Currently testing on following synthetic Dataset
+-XOR
+-Spiral 
+
 ## Future Implementations
 
 I plan to implement additional features as I continue learning, including:
